@@ -1,0 +1,16 @@
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Python files
+*.py text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# LaTeX files
+*.tex text eol=lf
+
+# Git configuration files
+.gitattributes text eol=lf
+.gitignore text eol=lf
