@@ -1,0 +1,39 @@
+# Python virtual environments
+venv/
+env/
+tfinance_env/
+yelpchi_env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+
+# Dataset files
+data/raw/
+data/processed/*.bin
+data/processed/*.pt
+*.mat
+
+# Temporary files
+*.log
+.DS_Store
+# Datasets and processed graph files
+data/raw/
+data/processed/
+notebooks/data/
+*.bin
+*.pt
+*.mat
+
+# Python environments
+tfinance_env/
+yelpchi_env/
+.venv/
+venv/
